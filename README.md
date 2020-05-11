@@ -3,9 +3,7 @@
 This is a **works for me** DNS black list for my pi-hole. Use at your own risk
 
 
-The raw link is https://raw.githubusercontent.com/JBlond/dnsblacklist/master/blacklist.txt
+The raw links are
 
-Also for the black list Regex
-
-- (^|\.)adsco\.re$
-- (^|\.)doubleclick\.net$
+- https://raw.githubusercontent.com/JBlond/dnsblacklist/master/blacklist.txt
+- https://raw.githubusercontent.com/JBlond/dnsblacklist/master/regexlist.txt
