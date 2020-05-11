@@ -18,7 +18,6 @@ edge-mqtt.facebook.com
 ensighten.com
 facebook.net
 getpocket.cdn.mozilla.net
-givemedata.cc
 graph.facebook.com
 graph.instagram.com
 kameleoon.eu
