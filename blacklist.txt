@@ -8,6 +8,7 @@ adsrv4k.com
 andarcair.club
 android-safebrowsing.google.com
 api.usercentrics.eu
+app.usercentrics.eu
 auth.ff.avast.com
 balvalur.com
 bodelen.com
