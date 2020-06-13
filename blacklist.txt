@@ -32,6 +32,7 @@ m.stripe.com
 m.stripe.network
 mc.webvisor.org
 merchandise.opera-api.com
+msh.amazon.co.uk
 mqtt-mini.facebook.com
 mvconf.cloud.360safe.com
 native.propellerclick.com
