@@ -19,6 +19,7 @@ connect.facebook.net
 consent.trustarc.com
 dnkeeper.hicloud.com
 edge-mqtt.facebook.com
+engagement.feedly.com
 ensighten.com
 facebook.net
 firebaseinstallations.googleapis.com
