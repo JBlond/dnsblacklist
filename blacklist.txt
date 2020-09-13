@@ -52,7 +52,6 @@ static.addtoany.com
 syndication.twitter.com
 tags.tiqcdn.com
 tiqcdn.com
-webhook.logentries.com
 yoochoose.net
 www.getfeedback.com.herokudns.com
 www.getfeedback.com
