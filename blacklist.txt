@@ -63,3 +63,5 @@ yoochoose.net
 wisst-ihr-noch.de
 www.getfeedback.com.herokudns.com
 www.getfeedback.com
+www.google-analytics.com
+www.googletagmanager.com
