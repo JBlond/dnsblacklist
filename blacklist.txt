@@ -46,6 +46,7 @@ native.propellerclick.com
 orbidder.otto.de
 pagead2.googlesyndication.com
 platform.twitter.com
+privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 rekovers.ru
 safebrowsing.googleapis.com
