@@ -1,6 +1,7 @@
 02060642dotbjdot52dot170dot99dot73q1w2e3rty.london.ac.uk
 0i0i0i0.com
 adcell.com
+addthis.com
 adobedtm.com
 ads.golem.de
 adsco.re
@@ -54,6 +55,7 @@ platform.twitter.com
 privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 rekovers.ru
+s7.addthis.com
 safebrowsing.googleapis.com
 sdkserver-dre.op.hicloud.com
 shepherd.sb.avast.com
