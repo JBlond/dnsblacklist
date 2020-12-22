@@ -68,10 +68,11 @@ static.addtoany.com
 syndication.twitter.com
 tags.tiqcdn.com
 tiqcdn.com
-yoochoose.net
+valeria.autobahn.link
 wisst-ihr-noch.de
 www.getfeedback.com.herokudns.com
 www.getfeedback.com
 www.google-analytics.com
 www.googletagmanager.com
 www.shopvote.de
+yoochoose.net
