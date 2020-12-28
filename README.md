@@ -8,3 +8,4 @@ The raw links are
 - https://raw.githubusercontent.com/JBlond/dnsblacklist/master/blacklist.txt
 - https://raw.githubusercontent.com/JBlond/dnsblacklist/master/regexlist.txt
 - https://raw.githubusercontent.com/JBlond/dnsblacklist/master/Win10Telemetry.txt
+- https://raw.githubusercontent.com/JBlond/dnsblacklist/master/windows-2004-endpoints.txt
