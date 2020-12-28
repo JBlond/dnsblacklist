@@ -11,6 +11,7 @@ android-safebrowsing.google.com
 api.usercentrics.eu
 app.usercentrics.eu
 assets.adobedtm.com
+audible.demdex.net
 auth.ff.avast.com
 balvalur.com
 bet3000.com
@@ -22,6 +23,7 @@ configserver-drex.platform.hicloud.com
 connect.facebook.net
 consent.trustarc.com
 curt.ly
+demdex.net
 device-metrics-us-2.amazon.com
 dnkeeper.hicloud.com
 edge-mqtt.facebook.com
@@ -31,6 +33,7 @@ facebook.net
 fashiondaily.tv
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
+fls-eu.amazon.com
 g1386590345.co
 getpocket.cdn.mozilla.net
 graph.facebook.com
