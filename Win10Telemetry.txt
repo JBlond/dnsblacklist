@@ -12,7 +12,10 @@ eaus2watcab02.blob.core.windows.net
 eu.vortex-win.data.microsoft.com
 geo.settings-win.data.microsoft.com.akadns.net
 geo.vortex.data.microsoft.com.akadns.net
+hubblecontent.osi.office.net
+nexus.officeapps.live.com
 oca.telemetry.microsoft.com
+self.events.data.microsoft.com
 settings-win.data.microsoft.com
 us.vortex-win.data.microsoft.com
 v10.vortex-win.data.microsoft.com
