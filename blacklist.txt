@@ -41,6 +41,7 @@ g1386590345.co
 getpocket.cdn.mozilla.net
 graph.facebook.com
 graph.instagram.com
+ioam.de
 kameleoon.eu
 kvinit-prod.api.kochava.com
 klatsch-tratsch.de
@@ -57,6 +58,7 @@ mvconf.cloud.360safe.com
 native.propellerclick.com
 nexusrules.officeapps.live.com
 orbidder.otto.de
+outbrain.com
 pagead2.googlesyndication.com
 platform.twitter.com
 privatestats.whatsapp.net
@@ -65,6 +67,7 @@ pushtrs7.push.hicloud.com
 rekovers.ru
 s7.addthis.com
 safebrowsing.googleapis.com
+scripts.ioam.de
 sdkserver-dre.op.hicloud.com
 shepherd.sb.avast.com
 sitecheck.opera.com
@@ -76,6 +79,7 @@ syndication.twitter.com
 tags.tiqcdn.com
 tiqcdn.com
 valeria.autobahn.link
+widgets.outbrain.com
 wisst-ihr-noch.de
 www.getfeedback.com.herokudns.com
 www.getfeedback.com
