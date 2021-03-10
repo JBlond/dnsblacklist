@@ -61,6 +61,7 @@ pagead2.googlesyndication.com
 platform.twitter.com
 privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
+pushtrs7.push.hicloud.com
 rekovers.ru
 s7.addthis.com
 safebrowsing.googleapis.com
