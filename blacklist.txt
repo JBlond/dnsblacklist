@@ -22,6 +22,7 @@ campaign.bet3000.com
 clearadnetwork.com
 configserver-dre.platform.hicloud.com
 configserver-drex.platform.hicloud.com
+configserver.platform.hicloud.com
 connect.facebook.net
 consent.trustarc.com
 curt.ly
