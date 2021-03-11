@@ -19,6 +19,7 @@ balvalur.com
 bet3000.com
 bodelen.com
 campaign.bet3000.com
+cdn.runative-syndicate.com
 clearadnetwork.com
 configserver-dre.platform.hicloud.com
 configserver-drex.platform.hicloud.com
@@ -60,15 +61,18 @@ nexusrules.officeapps.live.com
 orbidder.otto.de
 outbrain.com
 pagead2.googlesyndication.com
+platform-api.sharethis.com
 platform.twitter.com
 privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 pushtrs7.push.hicloud.com
 rekovers.ru
+runative-syndicate.com
 s7.addthis.com
 safebrowsing.googleapis.com
 scripts.ioam.de
 sdkserver-dre.op.hicloud.com
+sharethis.com
 shepherd.sb.avast.com
 sitecheck.opera.com
 speeddials.opera.com
