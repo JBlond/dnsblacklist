@@ -19,3 +19,6 @@ This is a **works for me** DNS black list for my pi-hole. Use at your own risk
 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 - https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+
+### CNAME Tracker
+- https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
