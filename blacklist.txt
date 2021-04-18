@@ -34,6 +34,7 @@ dnkeeper.hicloud.com
 edge-mqtt.facebook.com
 engagement.feedly.com
 ensighten.com
+eu.mvconf.50union.com
 facebook.net
 fashiondaily.tv
 firebaseinstallations.googleapis.com
