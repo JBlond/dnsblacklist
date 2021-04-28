@@ -44,6 +44,7 @@ g1386590345.co
 getpocket.cdn.mozilla.net
 graph.facebook.com
 graph.instagram.com
+graphql.instagram.com
 ioam.de
 kameleoon.eu
 kvinit-prod.api.kochava.com
