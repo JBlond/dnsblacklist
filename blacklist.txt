@@ -91,6 +91,7 @@ wideurl.com
 widgets.outbrain.com
 wisst-ihr-noch.de
 ww2.vuedsply.com
+ww2.sqidsply.com
 www.etoro.com
 www.getfeedback.com.herokudns.com
 www.getfeedback.com
@@ -98,5 +99,5 @@ www.google-analytics.com
 www.googletagmanager.com
 www.shopvote.de
 www.etoro.com
+www.performancetrustednetwork.com
 yoochoose.net
-ww2.sqidsply.com
