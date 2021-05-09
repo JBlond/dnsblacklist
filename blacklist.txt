@@ -99,6 +99,7 @@ tiqcdn.com
 valeria.autobahn.link
 wideurl.com
 widgets.outbrain.com
+widgets.pinterest.com
 wisst-ihr-noch.de
 ww2.vuedsply.com
 ww2.sqidsply.com
