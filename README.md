@@ -22,3 +22,7 @@ This is a **works for me** DNS black list for my pi-hole. Use at your own risk
 
 ### CNAME Tracker
 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+
+## Are blocking enough?
+
+- Test at https://d3ward.github.io/toolz/src/adblock.html
