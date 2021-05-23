@@ -98,6 +98,7 @@ syndication.twitter.com
 tags.tiqcdn.com
 tiqcdn.com
 valeria.autobahn.link
+vidsply.com
 wideurl.com
 widgets.outbrain.com
 widgets.pinterest.com
