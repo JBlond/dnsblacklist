@@ -22,6 +22,7 @@ bet3000.com
 bodelen.com
 campaign.bet3000.com
 cdn.runative-syndicate.com
+checkout.sripe.com
 clearadnetwork.com
 configserver-dre.platform.hicloud.com
 configserver-drex.platform.hicloud.com
@@ -49,6 +50,7 @@ graph.facebook.com
 graph.instagram.com
 graphql.instagram.com
 ioam.de
+js.stripe.com
 kameleoon.eu
 klatsch-tratsch.de
 kindle-time.amazon.com
