@@ -18,10 +18,11 @@ default:
 	@cat windows-2004-endpoints.txt >> temp.txt
 	@cat easylist >> temp.txt
 	@cat AdguardDNS.txt >> temp.txt
-	@sort temp.txt | uniq -u | sed '/^#/d' > all_combined.txt
+	@sort temp.txt | sed '/^#/d' > temp2.txt
+	@sed '/./!d' temp2.txt > all_combined.txt
 	@sed -i 's/0.0.0.0 //g' all_combined.txt
-	@sed -i 's/0.0.0.0//g' all_combined.txt
 	@rm -f temp.txt
+	@rm -f temp2.txt
 	@rm -f hosts
 	@rm -f simple_tracking.txt
 	@rm -f simple_ad.txt

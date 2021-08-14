@@ -39,11 +39,13 @@ engagement.feedly.com
 ensighten.com
 eu.mclean.50union.com
 eu.mvconf.50union.com
+extmaps-api.yandex.net
 facebook.net
 fashiondaily.tv
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 fls-eu.amazon.com
+freshmarketer.com
 g1386590345.co
 getpocket.cdn.mozilla.net
 graph.facebook.com
@@ -100,6 +102,7 @@ speeddials.opera.com
 ssl-golem.met.vgwort.de
 star-mini.c10r.facebook.com
 static.addtoany.com
+supportmetrics.apple.com
 syndication.twitter.com
 tags.tiqcdn.com
 tiqcdn.com
