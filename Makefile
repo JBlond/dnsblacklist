@@ -18,6 +18,9 @@ default:
 	@cat windows-2004-endpoints.txt >> temp.txt
 	@cat easylist >> temp.txt
 	@cat AdguardDNS.txt >> temp.txt
+	@sed -i 's/::1 ip6-localhost//g' temp.txt
+	@sed -i 's/::1 ip6-loopback//g' temp.txt
+	@sed -i 's/::1 localhost//g' temp.txt
 	@sort temp.txt | sed '/^#/d' > temp2.txt
 	@sed '/./!d' temp2.txt > all_combined.txt
 	@sed -i 's/0.0.0.0 //g' all_combined.txt
