@@ -32,4 +32,4 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 
 ## Are blocking enough?
 
-- Test at <https://d3ward.github.io/toolz/src/adblock.html>
+- Test at <https://d3ward.github.io/toolz/adblock.html>
