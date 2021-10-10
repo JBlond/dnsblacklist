@@ -21,9 +21,12 @@ default:
 	@sed -i 's/::1 ip6-localhost//g' temp.txt
 	@sed -i 's/::1 ip6-loopback//g' temp.txt
 	@sed -i 's/::1 localhost//g' temp.txt
+	# remove white space at the start of a line
 	@sed -i 's/^[ \t]*//' temp.txt
+	# sort all lines 1-9az-A-Z and remove lines starting with #
 	@sort temp.txt | sed '/^#/d' > temp2.txt
 	@sed '/./!d' temp2.txt > all_combined.txt
+	# remove all leading 0.0.0.0
 	@sed -i 's/0.0.0.0 //g' all_combined.txt
 	@rm -f temp.txt
 	@rm -f temp2.txt
