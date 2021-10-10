@@ -21,6 +21,7 @@ default:
 	@sed -i 's/::1 ip6-localhost//g' temp.txt
 	@sed -i 's/::1 ip6-loopback//g' temp.txt
 	@sed -i 's/::1 localhost//g' temp.txt
+	@sed -i 's/^[ \t]*//' temp.txt
 	@sort temp.txt | sed '/^#/d' > temp2.txt
 	@sed '/./!d' temp2.txt > all_combined.txt
 	@sed -i 's/0.0.0.0 //g' all_combined.txt
