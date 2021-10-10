@@ -4,6 +4,7 @@ default:
 	@curl -LO https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 	@curl -LO https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 	@curl -LO https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
+	@curl -LO https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
 	@curl -LO 	https://v.firebog.net/hosts/AdguardDNS.txt
 	@cat blacklist.txt >> temp.txt
 	@cat combined_disguised_trackers_justdomains.txt >> temp.txt
@@ -17,16 +18,17 @@ default:
 	@cat Win10Telemetry-extended.txt >> temp.txt
 	@cat windows-2004-endpoints.txt >> temp.txt
 	@cat easylist >> temp.txt
+	@cat crypto >> temp.txt
 	@cat AdguardDNS.txt >> temp.txt
 	@sed -i 's/::1 ip6-localhost//g' temp.txt
 	@sed -i 's/::1 ip6-loopback//g' temp.txt
 	@sed -i 's/::1 localhost//g' temp.txt
-	# remove white space at the start of a line
+	@# remove white space at the start of a line
 	@sed -i 's/^[ \t]*//' temp.txt
-	# sort all lines 1-9az-A-Z and remove lines starting with #
+	@# sort all lines 1-9az-A-Z and remove lines starting with #
 	@sort temp.txt | sed '/^#/d' > temp2.txt
 	@sed '/./!d' temp2.txt > all_combined.txt
-	# remove all leading 0.0.0.0
+	@# remove all leading 0.0.0.0
 	@sed -i 's/0.0.0.0 //g' all_combined.txt
 	@rm -f temp.txt
 	@rm -f temp2.txt
@@ -35,4 +37,5 @@ default:
 	@rm -f simple_ad.txt
 	@rm -f combined_disguised_trackers_justdomains.txt
 	@rm -f easylist
+	@rm -f crypto
 	@rm -f AdguardDNS.txt
