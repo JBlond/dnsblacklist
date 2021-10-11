@@ -1,3 +1,4 @@
 (^|\.)adsco\.re$
 (^|\.)doubleclick\.net$
+(^|\.)gov\.cn$
 ^log.*tiktokv.com
