@@ -29,6 +29,7 @@ configserver-dre.platform.hicloud.com
 configserver-drex.platform.hicloud.com
 configserver.platform.hicloud.com
 connect.facebook.net
+consent.faz.net
 consent.trustarc.com
 crashlogs.whatsapp.net
 curt.ly
