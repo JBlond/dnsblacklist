@@ -33,6 +33,7 @@ consent.faz.net
 consent.trustarc.com
 crashlogs.whatsapp.net
 curt.ly
+datasink.hcapp-dc.com
 demdex.net
 device-metrics-us-2.amazon.com
 dnkeeper.hicloud.com
@@ -50,6 +51,7 @@ fls-eu.amazon.com
 freshmarketer.com
 g1386590345.co
 getpocket.cdn.mozilla.net
+globalmsg.creativeappnow.com
 graph.facebook.com
 graph.instagram.com
 graphql.instagram.com
