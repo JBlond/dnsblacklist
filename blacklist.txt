@@ -105,6 +105,7 @@ shepherd.sb.avast.com
 sitecheck.opera.com
 speeddials.opera.com
 ssl-golem.met.vgwort.de
+stan.xing.com
 star-mini.c10r.facebook.com
 static.addtoany.com
 supportmetrics.apple.com
