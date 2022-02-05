@@ -48,6 +48,7 @@ fashiondaily.tv
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 fls-eu.amazon.com
+francetobaccotrading.com
 freshmarketer.com
 g1386590345.co
 getpocket.cdn.mozilla.net
