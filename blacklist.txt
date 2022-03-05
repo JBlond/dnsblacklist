@@ -81,6 +81,8 @@ metrics3.data.hicloud.com
 metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 metrics-dra.dt.hicloud.com
+metrics.icloud.com
+metrics.mzstatic.com
 msh.amazon.co.uk
 mqtt-mini.facebook.com
 mvconf.cloud.360safe.com
