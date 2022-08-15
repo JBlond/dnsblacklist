@@ -19,6 +19,7 @@ default:
 	@cat windows-2004-endpoints.txt >> temp.txt
 	@cat easylist >> temp.txt
 	@cat crypto >> temp.txt
+	@cat amazon.txt >> temp.txt
 	@cat AdguardDNS.txt >> temp.txt
 	@sed -i 's/::1 ip6-localhost//g' temp.txt
 	@sed -i 's/::1 ip6-loopback//g' temp.txt
