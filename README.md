@@ -2,6 +2,11 @@
 
 This is a **works for me** DNS black list for my pi-hole. Use at your own risk
 
+## All lists combined
+
+Why this list? Well, it is only one download and make it faster on the pi with lower resources.
+
+- <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/all_combined.txt>
 
 ## The raw links are
 
@@ -24,12 +29,13 @@ This is a **works for me** DNS black list for my pi-hole. Use at your own risk
 ### CNAME Tracker
 - <https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt>
 
-## All lists combined
-
-Why this list? Well, it is only one download and make it faster on the pi with lower resources.
-
-- <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/all_combined.txt>
-
 ## Are blocking enough?
 
 - Test at <https://d3ward.github.io/toolz/adblock.html>
+
+## Porn BLock lists
+
+- <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1>
+- <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2>
+- <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3>
+- <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4>
