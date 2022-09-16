@@ -104,6 +104,7 @@ safebrowsing.googleapis.com
 scripts.ioam.de
 sdkserver-dre.op.hicloud.com
 search.quitesuccessbest.top
+separatelysmackfibber.com
 sharethis.com
 shepherd.sb.avast.com
 sitecheck.opera.com
@@ -112,6 +113,7 @@ ssl-golem.met.vgwort.de
 stan.xing.com
 star-mini.c10r.facebook.com
 static.addtoany.com
+supanimegames.com
 supportmetrics.apple.com
 syndication.twitter.com
 tags.tiqcdn.com
