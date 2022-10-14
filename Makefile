@@ -1,4 +1,4 @@
-default:
+update:
 	@curl -LO https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 	@curl -LO https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 	@curl -LO https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
