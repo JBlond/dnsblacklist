@@ -2,3 +2,4 @@
 (^|\.)doubleclick\.net$
 (^|\.)gov\.cn$
 ^log.*tiktokv.com
+^watson\.(.*)\.microsoft\.com$
