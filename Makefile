@@ -24,6 +24,7 @@ update:
 	@sed -i 's/::1 ip6-localhost//g' temp.txt
 	@sed -i 's/::1 ip6-loopback//g' temp.txt
 	@sed -i 's/::1 localhost//g' temp.txt
+	@sed -i 's/*.tt.omtrdc.net//g' temp.txt
 	@# remove white space at the start of a line
 	@sed -i 's/^[ \t]*//' temp.txt
 	@# sort all lines 1-9az-A-Z and remove lines starting with #
