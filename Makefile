@@ -6,10 +6,11 @@ update:
 	@curl -LO https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
 	@curl -LO https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
 	@curl -LO 	https://v.firebog.net/hosts/AdguardDNS.txt
-	@cat blacklist.txt >> temp.txt
+	@cat blacklist.txt > temp.txt
 	@cat combined_disguised_trackers_justdomains.txt >> temp.txt
 	@cat hosts >> temp.txt
 	@cat justdomains.txt >> temp.txt
+	@cat samsung.txt >> temp.txt
 	@cat simple_ad.txt >> temp.txt
 	@cat simple_tracking.txt >> temp.txt
 	@cat spotify.txt >> temp.txt
