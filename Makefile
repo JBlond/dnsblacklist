@@ -27,6 +27,10 @@ update:
 	@sed -i 's/*.tt.omtrdc.net//g' temp.txt
 	@# remove white space at the start of a line
 	@sed -i 's/^[ \t]*//' temp.txt
+	@# remove backslach
+	@sed -i 's/\\//g' temp.txt
+	@# remove apostroph
+	@sed -i s/"'"/""/g temp.txt
 	@# sort all lines 1-9az-A-Z and remove lines starting with #
 	@sort temp.txt | sed '/^#/d' > temp2.txt
 	@sed '/./!d' temp2.txt > all_combined.txt
