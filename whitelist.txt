@@ -1,4 +1,5 @@
 nova.givemedata.cc
 rapidgator.net
 vidoza.net
+data.logentries.com
 webhook.logentries.com
