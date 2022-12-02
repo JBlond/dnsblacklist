@@ -95,6 +95,7 @@ outbrain.com
 pagead2.googlesyndication.com
 platform-api.sharethis.com
 platform.twitter.com
+privacy-proxy.usercentrics.eu
 privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 pushtrs7.push.hicloud.com
