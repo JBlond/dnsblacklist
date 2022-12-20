@@ -34,11 +34,11 @@ update:
 	@sed -i s/"'"/""/g temp.txt
 	@# sort all lines 1-9az-A-Z and remove lines starting with #
 	@sort temp.txt | sed '/^#/d' > temp2.txt
-	@# remove duplicates
-	@sort temp2.txt | uniq >> temp3.txt
-	@sed '/./!d' temp3.txt > all_combined.txt
+	@sed '/./!d' temp2.txt > temp3.txt
 	@# remove all leading 0.0.0.0
-	@sed -i 's/0.0.0.0 //g' all_combined.txt
+	@sed -i 's/0.0.0.0 //g' temp3.txt
+	@# remove duplicates
+	@sort temp3.txt | uniq > all_combined.txt
 	@# clean up
 	@rm -f temp.txt
 	@rm -f temp2.txt
