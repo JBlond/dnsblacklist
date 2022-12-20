@@ -1,11 +1,11 @@
 update:
-	@curl -LO https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-	@curl -LO https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-	@curl -LO https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-	@curl -LO https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-	@curl -LO https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
-	@curl -LO https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
-	@curl -LO 	https://v.firebog.net/hosts/AdguardDNS.txt
+	@curl -s -LO https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+	@curl -s -LO https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+	@curl -s -LO https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+	@curl -s -LO https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+	@curl -s -LO https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
+	@curl -s -LO https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
+	@curl -s -LO 	https://v.firebog.net/hosts/AdguardDNS.txt
 	@cat blacklist.txt > temp.txt
 	@cat combined_disguised_trackers_justdomains.txt >> temp.txt
 	@cat hosts >> temp.txt
@@ -34,11 +34,15 @@ update:
 	@sed -i s/"'"/""/g temp.txt
 	@# sort all lines 1-9az-A-Z and remove lines starting with #
 	@sort temp.txt | sed '/^#/d' > temp2.txt
-	@sed '/./!d' temp2.txt > all_combined.txt
+	@# remove duplicates
+	@sort temp2.txt | uniq >> temp3.txt
+	@sed '/./!d' temp3.txt > all_combined.txt
 	@# remove all leading 0.0.0.0
 	@sed -i 's/0.0.0.0 //g' all_combined.txt
+	@# clean up
 	@rm -f temp.txt
 	@rm -f temp2.txt
+	@rm -f temp3.txt
 	@rm -f hosts
 	@rm -f simple_tracking.txt
 	@rm -f simple_ad.txt
