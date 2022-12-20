@@ -1,3 +1,4 @@
+aax-eu.amazon-adsystem.com
 adtago.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 advice-ads.s3.amazonaws.com
@@ -5,3 +6,7 @@ affiliationjs.s3.amazonaws.com
 advertising-api-eu.amazon.com
 amazonaax.com
 amazonclix.com
+unagi.amazon.de
+unagi.amazon.de
+unagi.amazon.fr
+unagi.amazon.it
