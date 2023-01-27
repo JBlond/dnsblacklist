@@ -45,6 +45,7 @@ eu.mvconf.50union.com
 extmaps-api.yandex.net
 facebook.net
 fashiondaily.tv
+findmycrushes.com
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 fls-eu.amazon.com
@@ -111,6 +112,7 @@ separatelysmackfibber.com
 sharethis.com
 shepherd.sb.avast.com
 sitecheck.opera.com
+sondertreffen.com
 speeddials.opera.com
 ssl-golem.met.vgwort.de
 stan.xing.com
@@ -120,9 +122,12 @@ supanimegames.com
 supportmetrics.apple.com
 syndication.twitter.com
 tags.tiqcdn.com
+tikto.fun
 tiqcdn.com
+tr.watchcpm.com
 valeria.autobahn.link
 vidsply.com
+watchcpm.com
 wideurl.com
 widgets.outbrain.com
 widgets.pinterest.com
