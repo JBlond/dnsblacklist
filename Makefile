@@ -25,6 +25,8 @@ update:
 	@sed -i 's/::1 ip6-localhost//g' temp.txt
 	@sed -i 's/::1 ip6-loopback//g' temp.txt
 	@sed -i 's/::1 localhost//g' temp.txt
+	@sed -i 's/fe80::1%lo0 localhost//g' temp.txt
+	@sed -i 's/fe #00::0 ip6-localnet//g' temp.txt
 	@sed -i 's/*.tt.omtrdc.net//g' temp.txt
 	@# remove white space at the start of a line
 	@sed -i 's/^[ \t]*//' temp.txt
