@@ -17,6 +17,7 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/Win10Telemetry-extended.txt>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/windows-2004-endpoints.txt> use this list with care.
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/spotify.txt>
+- <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/hihonor.txt>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/sysctl-org-cameleon-hosts.txt>
 
 ## From others that I use

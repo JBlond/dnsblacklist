@@ -7,6 +7,7 @@ update:
 	@curl -s -LO https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
 	@curl -s -LO 	https://v.firebog.net/hosts/AdguardDNS.txt
 	@cat blacklist.txt > temp.txt
+	@cat hihonor.txt >> temp.txt
 	@cat combined_disguised_trackers_justdomains.txt >> temp.txt
 	@cat hosts >> temp.txt
 	@cat justdomains.txt >> temp.txt
