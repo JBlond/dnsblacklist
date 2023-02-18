@@ -57,6 +57,7 @@ globalmsg.creativeappnow.com
 graph.facebook.com
 graph.instagram.com
 graphql.instagram.com
+hanime.tv
 improving.duckduckgo.com
 ioam.de
 js.stripe.com
