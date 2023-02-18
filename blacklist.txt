@@ -49,6 +49,7 @@ findmycrushes.com
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 fls-eu.amazon.com
+footprint.net
 francetobaccotrading.com
 freshmarketer.com
 g1386590345.co
