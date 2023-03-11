@@ -32,6 +32,7 @@ connect.facebook.net
 consent.faz.net
 consent.trustarc.com
 crashlogs.whatsapp.net
+crashlytics.com
 curt.ly
 datasink.hcapp-dc.com
 demdex.net
@@ -48,6 +49,7 @@ fashiondaily.tv
 findmycrushes.com
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
+firebase-settings.crashlytics.com
 fls-eu.amazon.com
 footprint.net
 francetobaccotrading.com
