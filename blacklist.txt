@@ -120,6 +120,7 @@ search.quitesuccessbest.top
 separatelysmackfibber.com
 sharethis.com
 shepherd.sb.avast.com
+sovendus-network.com
 sitecheck.opera.com
 sondertreffen.com
 speeddials.opera.com
@@ -151,6 +152,7 @@ www.googletagmanager.com
 www.shopvote.de
 www.etoro.com
 www.performancetrustednetwork.com
+www.sovendus-network.com
 yoochoose.net
 adserver.viagogo.com
 viagogo.com
