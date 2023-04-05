@@ -41,6 +41,12 @@ update:
 	@sed '/./!d' temp2.txt > temp3.txt
 	@# remove all leading 0.0.0.0
 	@sed -i 's/0.0.0.0 //g' temp3.txt
+	@# remove all lines starting with -
+	@sed -i '/^-/d' temp3.txt
+	@sed -i '/^_/d' temp3.txt
+	@sed -i '/^\*/d' temp3.txt
+	@sed -i '/^0\.0\.0\.0$/d' temp3.txt
+	@sed -i '/\.$/d' temp3.txt
 	@# remove duplicates
 	@sort temp3.txt | uniq > all_combined.txt
 	@# clean up
