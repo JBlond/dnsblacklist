@@ -45,8 +45,6 @@ update:
 	@sed -i '/^-/d' temp3.txt
 	@sed -i '/^_/d' temp3.txt
 	@sed -i '/^\*/d' temp3.txt
-	@sed -i '/^0\.0\.0\.0$/d' temp3.txt
-	@sed -i '/\.$/d' temp3.txt
 	@# remove duplicates
 	@sort temp3.txt | uniq > all_combined.txt
 	@# clean up
