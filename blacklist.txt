@@ -47,6 +47,7 @@ dnkeeper.hicloud.com
 edge-mqtt.facebook.com
 engagement.feedly.com
 ensighten.com
+eum.instana.io
 eu.mclean.50union.com
 eu.mvconf.50union.com
 extmaps-api.yandex.net
