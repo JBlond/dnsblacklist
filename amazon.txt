@@ -6,7 +6,8 @@ affiliationjs.s3.amazonaws.com
 advertising-api-eu.amazon.com
 amazonaax.com
 amazonclix.com
-unagi.amazon.de
+fls-eu.amazon.com
+unagi.amazon.com
 unagi.amazon.de
 unagi.amazon.fr
 unagi.amazon.it
