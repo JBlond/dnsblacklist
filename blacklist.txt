@@ -87,6 +87,7 @@ logservice1.hicloud.com
 m.stripe.com
 m.stripe.network
 mads.amazon-adsystem.com
+matomo.hetzner.com
 mc.webvisor.org
 merchandise.opera-api.com
 metrics.data.hicloud.com
