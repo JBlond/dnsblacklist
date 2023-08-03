@@ -69,6 +69,7 @@ graph.instagram.com
 graphql.instagram.com
 graph-fallback.instagram.com
 hanime.tv
+images.atimaze.com
 improving.duckduckgo.com
 ioam.de
 js.dynssp.com
@@ -116,6 +117,7 @@ privacy-proxy.usercentrics.eu
 privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 pushtrs7.push.hicloud.com
+random-affiliate.atimaze.com
 rekovers.ru
 runative-syndicate.com
 s7.addthis.com
