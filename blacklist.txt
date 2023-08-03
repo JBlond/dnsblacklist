@@ -71,6 +71,8 @@ graph-fallback.instagram.com
 hanime.tv
 improving.duckduckgo.com
 ioam.de
+js.dynssp.com
+js.streampsh.top
 js.stripe.com
 justporn.to
 kameleoon.eu
