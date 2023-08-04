@@ -50,6 +50,7 @@ ensighten.com
 eum.instana.io
 eu.mclean.50union.com
 eu.mvconf.50union.com
+events.demoup.com
 extmaps-api.yandex.net
 facebook.net
 fashiondaily.tv
