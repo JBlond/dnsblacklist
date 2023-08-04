@@ -118,6 +118,7 @@ privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 pushtrs7.push.hicloud.com
 random-affiliate.atimaze.com
+recommendations.lidl-shop.com
 rekovers.ru
 runative-syndicate.com
 s7.addthis.com
