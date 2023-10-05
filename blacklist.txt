@@ -42,6 +42,7 @@ crashlytics.com
 curt.ly
 datasink.hcapp-dc.com
 demdex.net
+device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 dnkeeper.hicloud.com
 edge-mqtt.facebook.com
