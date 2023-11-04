@@ -118,6 +118,7 @@ platform.twitter.com
 privacy-proxy.usercentrics.eu
 privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
+produktgenuss-10.produktgenuss.de
 pushtrs7.push.hicloud.com
 random-affiliate.atimaze.com
 recommendations.lidl-shop.com
