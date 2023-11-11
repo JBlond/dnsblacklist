@@ -18,6 +18,9 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/windows-2004-endpoints.txt> use this list with care.
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/spotify.txt>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/hihonor.txt>
+- <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/amazon.txt>
+- <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/hihonor.txt>
+- <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/samsung.txt>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/sysctl-org-cameleon-hosts.txt>
 
 ## From others that I use
@@ -42,3 +45,7 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4>
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5>
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6>
+
+## No more google in your life
+
+- <https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt>
