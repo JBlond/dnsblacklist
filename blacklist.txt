@@ -130,6 +130,7 @@ safebrowsing.googleapis.com
 scripts.ioam.de
 sdkserver-dre.op.hicloud.com
 search.quitesuccessbest.top
+secureir.ebaystatic.com
 separatelysmackfibber.com
 sharethis.com
 shepherd.sb.avast.com
