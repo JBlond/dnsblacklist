@@ -9,10 +9,7 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/all_combined.txt>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/regexlist.txt>
 
-## The raw links are
-
 <details><summary>Raw links</summary><br>
-
 
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/blacklist.txt>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/regexlist.txt>
@@ -29,21 +26,26 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 
 </details>
 
-## From others that I use
+<details><summary>From others that I use</summary><br>
 
 - <https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts>
 - <https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt>
 - <https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt>
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist>
 
-### CNAME Tracker
+</details>
+
+<details><summary>CNAME Tracker</summary><br>
+
 - <https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt>
+
+</details>
 
 ## Are blocking enough?
 
 - Test at <https://d3ward.github.io/toolz/adblock.html>
 
-## Porn Block lists
+<details><summary>Porn Block lists</summary><br>
 
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1>
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2>
@@ -51,6 +53,8 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4>
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5>
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6>
+
+</details>
 
 ## No more google in your life
 
