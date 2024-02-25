@@ -7,9 +7,11 @@ This is a **works for me** DNS black list for my pi-hole. Use at your own risk
 Why this list? Well, it is only one download and make it faster on the pi with lower resources.
 
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/all_combined.txt>
+- <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/regexlist.txt>
 
 ## The raw links are
 
+<details><summary>Raw links</summary>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/blacklist.txt>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/regexlist.txt>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/justdomains.txt>
@@ -22,6 +24,7 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/hihonor.txt>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/samsung.txt>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/sysctl-org-cameleon-hosts.txt>
+</details>
 
 ## From others that I use
 
@@ -37,7 +40,7 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 
 - Test at <https://d3ward.github.io/toolz/adblock.html>
 
-## Porn BLock lists
+## Porn Block lists
 
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1>
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2>
