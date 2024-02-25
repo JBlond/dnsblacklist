@@ -11,7 +11,9 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 
 ## The raw links are
 
-<details><summary>Raw links</summary>
+<details><summary>Raw links</summary><br>
+
+
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/blacklist.txt>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/regexlist.txt>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/justdomains.txt>
@@ -24,6 +26,7 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/hihonor.txt>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/samsung.txt>
 - <https://raw.githubusercontent.com/JBlond/dnsblacklist/master/sysctl-org-cameleon-hosts.txt>
+
 </details>
 
 ## From others that I use
