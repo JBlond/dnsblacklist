@@ -5,12 +5,14 @@ adcell.com
 addthis.com
 adm.hotjar.com
 adobe.demdex.net
-adobe.demdex.net
 adobedtm.com
 ads.golem.de
+ads-api.tiktok.com
 adsco.re
 adserver.viagogo.com
 adsrv4k.com
+ads-sg.tiktok.com
+adtech.yahooinc.com
 afs.googlesyndication.com
 andarcair.club
 android-safebrowsing.google.com
@@ -33,10 +35,12 @@ bet3000.com
 bodelen.com
 browser.sentry-cdn.com
 budgetpetcare.com
+business-api.tiktok.com
 campaign.bet3000.com
 cdn.runative-syndicate.com
 cdn-test.mouseflow.com
 checkout.sripe.com
+ck.ads.oppomobile.com
 claritybt.freshmarketer.com
 clearadnetwork.com
 configserver.platform.hicloud.com
@@ -99,6 +103,8 @@ labourmuttering.com
 landing.srv.aur.be
 layer-ad.org
 lb25.s400.meetrics.net
+log.byteoversea.com
+log.fc.yahoo.com
 logbak.hicloud.com
 logfiles.zoom.us
 logservice.hicloud.com
@@ -118,6 +124,7 @@ metrics3.data.hicloud.com
 metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 metrics-dra.dt.hicloud.com
+metrika.yandex.ru
 mqtt-mini.facebook.com
 msh.amazon.co.uk
 mvconf.cloud.360safe.com
@@ -141,6 +148,7 @@ rekovers.ru
 runative-syndicate.com
 s7.addthis.com
 safebrowsing.googleapis.com
+samsung-com.112.2o7.net
 scripts.ioam.de
 sdkserver-dre.op.hicloud.com
 search.quitesuccessbest.top
@@ -166,6 +174,8 @@ tikto.fun
 tiqcdn.com
 tools.mouseflow.com
 tr.watchcpm.com
+udc.yahoo.com
+udcm.yahoo.com
 valeria.autobahn.link
 viagogo.com
 viagogo.de
