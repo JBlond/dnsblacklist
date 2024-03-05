@@ -57,7 +57,6 @@ demdex.net
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 dnkeeper.hicloud.com
-edge-mqtt.facebook.com
 engagement.feedly.com
 ensighten.com
 eu.mclean.50union.com
@@ -80,10 +79,6 @@ fwtracks.freshmarketer.com
 g1386590345.co
 getpocket.cdn.mozilla.net
 globalmsg.creativeappnow.com
-graph.facebook.com
-graph.instagram.com
-graph-fallback.instagram.com
-graphql.instagram.com
 hanime.tv
 hbrt.adobe.com
 identify.hotjar.com
@@ -125,7 +120,6 @@ metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 metrics-dra.dt.hicloud.com
 metrika.yandex.ru
-mqtt-mini.facebook.com
 msh.amazon.co.uk
 mvconf.cloud.360safe.com
 native.propellerclick.com
