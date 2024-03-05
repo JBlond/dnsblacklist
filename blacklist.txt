@@ -56,6 +56,7 @@ datasink.hcapp-dc.com
 demdex.net
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
+dit.whatsapp.net
 dnkeeper.hicloud.com
 engagement.feedly.com
 ensighten.com
