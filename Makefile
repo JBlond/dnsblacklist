@@ -55,6 +55,6 @@ update:
 	@rm -f hosts
 	@rm -f simple_tracking.txt
 	@rm -f simple_ad.txt
-	@rm -f combined_disguised_trackers_justdomains.txt
+	@rm -f combined_disguised_ads_justdomains.txt
 	@rm -f easylist
 	@rm -f AdguardDNS.txt
