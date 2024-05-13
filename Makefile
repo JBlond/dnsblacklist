@@ -2,13 +2,12 @@ update:
 	@curl -s -LO https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 	@curl -s -LO https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 	@curl -s -LO https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-	@curl -s -LO https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+	@curl -s -LO https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads_justdomains.txt
 	@curl -s -LO https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
-	@curl -s -LO https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
-	@curl -s -LO 	https://v.firebog.net/hosts/AdguardDNS.txt
+	@curl -s -LO https://v.firebog.net/hosts/AdguardDNS.txt
 	@cat blacklist.txt > temp.txt
 	@cat hihonor.txt >> temp.txt
-	@cat combined_disguised_trackers_justdomains.txt >> temp.txt
+	@cat combined_disguised_ads_justdomains.txt >> temp.txt
 	@cat hosts >> temp.txt
 	@cat justdomains.txt >> temp.txt
 	@cat samsung.txt >> temp.txt
@@ -20,7 +19,6 @@ update:
 	@cat Win10Telemetry-extended.txt >> temp.txt
 	@cat windows-2004-endpoints.txt >> temp.txt
 	@cat easylist >> temp.txt
-	@cat crypto >> temp.txt
 	@cat amazon.txt >> temp.txt
 	@cat AdguardDNS.txt >> temp.txt
 	@sed -i 's/::1 ip6-localhost//g' temp.txt
@@ -59,5 +57,4 @@ update:
 	@rm -f simple_ad.txt
 	@rm -f combined_disguised_trackers_justdomains.txt
 	@rm -f easylist
-	@rm -f crypto
 	@rm -f AdguardDNS.txt
