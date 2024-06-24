@@ -52,6 +52,7 @@ consent.trustarc.com
 crashlogs.whatsapp.net
 crashlytics.com
 curt.ly
+data.pendo.io
 datasink.hcapp-dc.com
 demdex.net
 device-metrics-us.amazon.com
