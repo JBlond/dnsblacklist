@@ -156,6 +156,7 @@ sitecheck.opera.com
 sondertreffen.com
 sovendus-network.com
 speeddials.opera.com
+spiegel.com
 ssl-golem.met.vgwort.de
 sstats.adobe.com
 stan.xing.com
