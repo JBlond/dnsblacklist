@@ -22,6 +22,7 @@ api.usercentrics.eu
 app.bugsnag.com
 app.getsentry.com
 app.usercentrics.eu
+api.userlike.com
 arcus-uswest.amazon.com
 assets.adobedtm.com
 audacity.de
