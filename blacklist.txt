@@ -38,6 +38,7 @@ browser.sentry-cdn.com
 budgetpetcare.com
 business-api.tiktok.com
 campaign.bet3000.com
+cas.avalon.perfdrive.com
 cdn.runative-syndicate.com
 cdn-test.mouseflow.com
 checkout.sripe.com
@@ -130,6 +131,7 @@ nexusrules.officeapps.live.com
 orbidder.otto.de
 outbrain.com
 pagead2.googlesyndication.com
+perfdrive.com
 platform.twitter.com
 platform-api.sharethis.com
 player-telemetry.vimeo.com
