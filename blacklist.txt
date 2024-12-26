@@ -169,6 +169,7 @@ supanimegames.com
 supportmetrics.apple.com
 surveys.hotjar.com
 syndication.twitter.com
+synonymdetected.com
 tags.tiqcdn.com
 tikto.fun
 tiqcdn.com
