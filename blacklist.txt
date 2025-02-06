@@ -71,6 +71,7 @@ events.demoup.com
 events.hotjar.io
 extmaps-api.yandex.net
 facebook.net
+fansly.com
 fashiondaily.tv
 findmycrushes.com
 firebaseinstallations.googleapis.com
