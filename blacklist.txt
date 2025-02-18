@@ -139,6 +139,7 @@ perfdrive.com
 platform.twitter.com
 platform-api.sharethis.com
 player-telemetry.vimeo.com
+play-lg.com
 privacy-proxy.usercentrics.eu
 privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
