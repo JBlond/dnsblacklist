@@ -88,6 +88,7 @@ girlfriendwisely.com
 globalmsg.creativeappnow.com
 hanime.tv
 hbrt.adobe.com
+hubblecontent.osi.office.net
 identify.hotjar.com
 images.atimaze.com
 improving.duckduckgo.com
@@ -156,6 +157,7 @@ samsung-com.112.2o7.net
 scripts.ioam.de
 sdkserver-dre.op.hicloud.com
 search.quitesuccessbest.top
+self.events.data.microsoft.com
 separatelysmackfibber.com
 sharethis.com
 shepherd.sb.avast.com
