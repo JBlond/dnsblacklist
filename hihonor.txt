@@ -3,5 +3,4 @@ apm.yun.hihonor.com
 appresource-gw-dre.hispace.hihonorcloud.com
 hihonorcloud.com
 gamemanager-api-dre.hispace.hihonorcloud.com
-grs.hihonorcloud.com
 metrics-dre.dt.hihonorcloud.com
