@@ -1,0 +1,4 @@
+remote-data.asnapieu.com
+device-api.asnapieu.com
+decide.mixpanel.com
+api.mixpanel.com
