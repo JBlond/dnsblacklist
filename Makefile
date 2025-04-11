@@ -6,6 +6,7 @@ update:
 	@curl -s -LO https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads_justdomains.txt
 	@curl -s -LO https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
 	@curl -s -LO https://v.firebog.net/hosts/AdguardDNS.txt
+	@curl -s -LO https://o0.pages.dev/Lite/domains.txt
 	@cat blacklist.txt > temp.txt
 	@cat hihonor.txt >> temp.txt
 	@cat combined_disguised_ads_justdomains.txt >> temp.txt
@@ -22,6 +23,7 @@ update:
 	@cat easylist >> temp.txt
 	@cat amazon.txt >> temp.txt
 	@cat AdguardDNS.txt >> temp.txt
+	@cat domains.txt >> temp.txt
 	@sed -i 's/::1 ip6-localhost//g' temp.txt
 	@sed -i 's/::1 ip6-loopback//g' temp.txt
 	@sed -i 's/::1 localhost//g' temp.txt
@@ -60,3 +62,4 @@ update:
 	@rm -f combined_disguised_ads_justdomains.txt
 	@rm -f easylist
 	@rm -f AdguardDNS.txt
+	@rm -f domains.txt
