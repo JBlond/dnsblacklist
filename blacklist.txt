@@ -4,6 +4,7 @@ acroipm2.adobe.com
 adcell.com
 addthis.com
 adm.hotjar.com
+admachina.com
 adobe.demdex.net
 adobedtm.com
 ads.golem.de
@@ -51,6 +52,7 @@ configserver-drex.platform.hicloud.com
 connect.facebook.net
 consent.faz.net
 consent.trustarc.com
+coolcs2.com
 crashlogs.whatsapp.net
 crashlytics.com
 curt.ly
@@ -131,6 +133,7 @@ metrics-dra.dt.hicloud.com
 metrika.yandex.ru
 msh.amazon.co.uk
 mvconf.cloud.360safe.com
+nvpartnerspromo.com
 native.propellerclick.com
 nexusrules.officeapps.live.com
 onlyfans.com
