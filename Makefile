@@ -51,7 +51,9 @@ update:
 	@sed -i '1d' temp3.txt
 	@# remove duplicates
 	@sort temp3.txt | uniq > all_combined.txt
-	@sed -i 's/0.0.0.0 //g' all_combined.txt
+	@# remove all leading 0.0.0.0
+	@sed -i 's/^0.0.0.0$//g' all_combined.txt
+	@sed -i '/^[[:space:]]*$/d' all_combined.txt
 	@# clean up
 	@rm -f temp.txt
 	@rm -f temp2.txt
