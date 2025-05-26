@@ -17,8 +17,8 @@ update:
 	@cat simple_tracking.txt >> temp.txt
 	@cat spotify.txt >> temp.txt
 	@cat sysctl-org-cameleon-hosts.txt >> temp.txt
-	@cat Win10Telemetry.txt >> temp.txt
-	@cat Win10Telemetry-extended.txt >> temp.txt
+	@cat windows-10-Telemetry.txt >> temp.txt
+	@cat windows-10-Telemetry-extended.txt >> temp.txt
 	@cat windows-2004-endpoints.txt >> temp.txt
 	@cat easylist >> temp.txt
 	@cat amazon.txt >> temp.txt
