@@ -43,8 +43,6 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 
 ## Are blocking enough?
 
-- Test at <https://d3ward.github.io/toolz/adblock.html>
-
 <details><summary>Porn Block lists</summary><br>
 
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1>
@@ -56,6 +54,6 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 
 </details>
 
-## No more google in your life
+### No more google in your life
 
 - <https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt>
