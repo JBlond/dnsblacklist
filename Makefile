@@ -1,4 +1,5 @@
 update:
+	@git gc
 	@git pull
 	@curl -s -LO https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 	@curl -s -LO https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
