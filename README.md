@@ -2,6 +2,7 @@
 
 This is a **works for me** DNS black list for my pi-hole. Use at your own risk
 
+<!-- tomtom uses purchasely.io -->
 ## All lists combined
 
 Why this list? Well, it is only one download and make it faster on the pi with lower resources.
