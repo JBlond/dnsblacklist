@@ -25,7 +25,7 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 
 </details>
 
-## Are blocking enough?
+## Are blocking enough? Protect your childern ❤️  and yourself
 
 <details><summary>Porn Block lists</summary><br>
 
