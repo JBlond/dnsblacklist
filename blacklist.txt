@@ -153,6 +153,7 @@ privatestats.whatsapp.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 produktgenuss-10.produktgenuss.de
 pushtrs7.push.hicloud.com
+querverweis.com
 random-affiliate.atimaze.com
 realtime.luckyorange.com
 recommendations.lidl-shop.com
