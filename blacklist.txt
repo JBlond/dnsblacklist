@@ -3,6 +3,7 @@
 acroipm2.adobe.com
 adcell.com
 addthis.com
+adexchange.googleapis.com
 adm.hotjar.com
 admachina.com
 adobe.demdex.net
@@ -10,6 +11,7 @@ adobedtm.com
 ads.golem.de
 ads-api.tiktok.com
 adsco.re
+adsense.googleapis.com
 adserver.viagogo.com
 adsrv4k.com
 ads-sg.tiktok.com
@@ -17,6 +19,16 @@ adtech.yahooinc.com
 afs.googlesyndication.com
 andarcair.club
 android-safebrowsing.google.com
+analytics.googleapis.com
+analytics.withgoogle.com
+analyticsadmin.googleapis.com
+analyticsdata.googleapis.com
+analyticshub.googleapis.com
+analyticsinsights-pa.googleapis.com
+analyticsmobile-pa.googleapis.com
+analyticsreporting.googleapis.com
+analyticssearch-pa.googleapis.com
+analyticssuitefrontend-pa.googleapis.com
 api.bugsnag.com
 api.luckyorange.com
 api.usercentrics.eu
