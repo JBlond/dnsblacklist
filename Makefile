@@ -13,6 +13,7 @@ update:
 	@cat combined_disguised_ads_justdomains.txt >> temp.txt
 	@cat hosts >> temp.txt
 	@cat justdomains.txt >> temp.txt
+	@cat google.txt >> temp.txt
 	@cat samsung.txt >> temp.txt
 	@cat simple_ad.txt >> temp.txt
 	@cat simple_tracking.txt >> temp.txt

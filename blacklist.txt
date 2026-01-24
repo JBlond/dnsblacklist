@@ -3,7 +3,6 @@
 acroipm2.adobe.com
 adcell.com
 addthis.com
-adexchange.googleapis.com
 adm.hotjar.com
 admachina.com
 adobe.demdex.net
@@ -11,24 +10,11 @@ adobedtm.com
 ads.golem.de
 ads-api.tiktok.com
 adsco.re
-adsense.googleapis.com
 adserver.viagogo.com
 adsrv4k.com
 ads-sg.tiktok.com
 adtech.yahooinc.com
-afs.googlesyndication.com
 andarcair.club
-android-safebrowsing.google.com
-analytics.googleapis.com
-analytics.withgoogle.com
-analyticsadmin.googleapis.com
-analyticsdata.googleapis.com
-analyticshub.googleapis.com
-analyticsinsights-pa.googleapis.com
-analyticsmobile-pa.googleapis.com
-analyticsreporting.googleapis.com
-analyticssearch-pa.googleapis.com
-analyticssuitefrontend-pa.googleapis.com
 api.bugsnag.com
 api.luckyorange.com
 api.usercentrics.eu
@@ -89,9 +75,6 @@ facebook.net
 fansly.com
 fashiondaily.tv
 findmycrushes.com
-firebaseinstallations.googleapis.com
-firebaseremoteconfig.googleapis.com
-firebase-settings.crashlytics.com
 fls-eu.amazon.com
 footprint.net
 francetobaccotrading.com
@@ -154,7 +137,6 @@ nexusrules.officeapps.live.com
 onlyfans.com
 orbidder.otto.de
 outbrain.com
-pagead2.googlesyndication.com
 perfdrive.com
 platform.twitter.com
 platform-api.sharethis.com
@@ -172,7 +154,6 @@ recommendations.lidl-shop.com
 rekovers.ru
 runative-syndicate.com
 s7.addthis.com
-safebrowsing.googleapis.com
 samsung-com.112.2o7.net
 scripts.ioam.de
 sdkserver-dre.op.hicloud.com
@@ -224,8 +205,6 @@ www.etoro.com
 www.etoro.com
 www.getfeedback.com
 www.getfeedback.com.herokudns.com
-www.google-analytics.com
-www.googletagmanager.com
 www.gotoprimeconvert.com
 www.mydirtyhobby.de
 www.predictivdisplay.com
