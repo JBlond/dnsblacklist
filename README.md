@@ -38,6 +38,10 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 - <https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list>
 - <https://v.firebog.net/hosts/Prigent-Adult.txt>
 
+### child proctection
+
+- <https://github.com/RPiList/specials/raw/refs/heads/master/Blocklisten/child-protection>
+
 </details>
 
 ### No more google in your life
