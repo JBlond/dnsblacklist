@@ -8,6 +8,7 @@ update:
 	@curl -s -LO https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
 	@curl -s -LO https://v.firebog.net/hosts/AdguardDNS.txt
 	@curl -s -LO https://o0.pages.dev/Lite/domains.txt
+	@curl -s -LO https://github.com/RPiList/specials/raw/refs/heads/master/Blocklisten/notserious
 	@cat blacklist.txt > temp.txt
 	@cat hihonor.txt >> temp.txt
 	@cat combined_disguised_ads_justdomains.txt >> temp.txt
@@ -27,6 +28,7 @@ update:
 	@cat amazon.txt >> temp.txt
 	@cat AdguardDNS.txt >> temp.txt
 	@cat domains.txt >> temp.txt
+	@cat notserious >> temp.txt
 	@sed -i 's/::1 ip6-localhost//g' temp.txt
 	@sed -i 's/::1 ip6-loopback//g' temp.txt
 	@sed -i 's/::1 localhost//g' temp.txt
@@ -65,3 +67,4 @@ update:
 	@rm -f easylist
 	@rm -f AdguardDNS.txt
 	@rm -f domains.txt
+	@rm -f notserious
