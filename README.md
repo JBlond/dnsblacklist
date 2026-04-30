@@ -29,6 +29,8 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 
 <details><summary>Porn Block lists</summary><br>
 
+This lists is not included in my combined file.
+
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1>
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2>
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3>
@@ -40,6 +42,8 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 
 ### child proctection
 
+This list is not included in my combined file.
+
 - <https://github.com/RPiList/specials/raw/refs/heads/master/Blocklisten/child-protection>
 
 </details>
@@ -49,3 +53,9 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 This list is not included in my combined file.
 
 - <https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt>
+
+## no more amazon in your life
+
+This list is not included in my combined file.
+
+- <https://github.com/nickspaargaren/no-amazon/raw/refs/heads/master/amazon.txt>
