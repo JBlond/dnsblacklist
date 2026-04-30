@@ -35,6 +35,8 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4>
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5>
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6>
+- <https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list>
+- <https://v.firebog.net/hosts/Prigent-Adult.txt>
 
 </details>
 
