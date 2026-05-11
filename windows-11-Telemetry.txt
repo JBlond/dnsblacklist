@@ -6,4 +6,3 @@ self.events.data.microsoft.com
 share.microsoft.com
 telecommand.telemetry.microsoft.com
 v10.events.data.microsoft.com
-watson.*.microsoft.com
