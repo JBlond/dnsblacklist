@@ -30,6 +30,7 @@ update:
 	@cat domains.txt >> temp.txt
 	@cat notserious >> temp.txt
 	@sed -i 's/||//g' temp.txt
+	@sed -i 's/\^//g' temp.txt
 	@sed -i 's/::1 ip6-localhost//g' temp.txt
 	@sed -i 's/::1 ip6-loopback//g' temp.txt
 	@sed -i 's/::1 localhost//g' temp.txt
