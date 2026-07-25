@@ -39,6 +39,7 @@ This lists is not included in my combined file.
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6>
 - <https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list>
 - <https://v.firebog.net/hosts/Prigent-Adult.txt>
+- <https://nsfw.oisd.nl>
 
 ### child proctection
 
