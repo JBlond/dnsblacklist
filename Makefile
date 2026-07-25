@@ -9,6 +9,7 @@ update:
 	@curl -s -LO https://v.firebog.net/hosts/AdguardDNS.txt
 	@curl -s -LO https://o0.pages.dev/Lite/domains.txt
 	@curl -s -LO https://github.com/RPiList/specials/raw/refs/heads/master/Blocklisten/notserious
+	@curl -s https://small.oisd.nl > small.txt
 	@cat blacklist.txt > temp.txt
 	@cat hihonor.txt >> temp.txt
 	@cat combined_disguised_ads_justdomains.txt >> temp.txt
@@ -29,6 +30,7 @@ update:
 	@cat AdguardDNS.txt >> temp.txt
 	@cat domains.txt >> temp.txt
 	@cat notserious >> temp.txt
+	@cat small.txt >> temp.txt
 	@sed -i 's/||//g' temp.txt
 	@sed -i 's/\^//g' temp.txt
 	@sed -i 's/::1 ip6-localhost//g' temp.txt
@@ -70,3 +72,4 @@ update:
 	@rm -f AdguardDNS.txt
 	@rm -f domains.txt
 	@rm -f notserious
+	@rm -f small.txt
