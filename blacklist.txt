@@ -8,6 +8,7 @@ admachina.com
 adobe.demdex.net
 adobedtm.com
 ads.golem.de
+ads.mozilla.org
 ads-api.tiktok.com
 adsco.re
 adserver.viagogo.com
