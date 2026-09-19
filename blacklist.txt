@@ -175,6 +175,7 @@ sstats.adobe.com
 stan.xing.com
 star-mini.c10r.facebook.com
 static.addtoany.com
+subscriptions.duckduckgo.com
 supanimegames.com
 supportmetrics.apple.com
 surveys.hotjar.com
