@@ -27,9 +27,9 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 
 ## Are blocking enough? Protect your childern ❤️  and yourself
 
-<details><summary>Porn Block lists</summary><br>
-
 This lists is not included in my combined file.
+
+<details><summary>Porn Block lists</summary><br>
 
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1>
 - <https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2>
