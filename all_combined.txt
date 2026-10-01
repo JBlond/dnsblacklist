@@ -88458,6 +88458,7 @@ choicedealz.com
 choice.goasrv.com
 choicegolfcarts.com
 choiceinvestivo.net
+choice.microsoft.com
 choicemobiledetailing.com
 choicepetshome.co.za
 choice-rx.com
@@ -151313,7 +151314,9 @@ feedback.microsoft-hohm.com
 feedback.notifysrv.com
 feedback.nslsc-csnpe.ca
 feedbackresearch.com
+feedback.search.microsoft.com
 feedback.uc.cn
+feedback.windows.com
 feedbinjabsfewter.qpon
 feedcat.net
 feed.clickmenia.com
@@ -201672,6 +201675,7 @@ i1k5chnz4k7m6iml.cfd
 i1kkbr.sbs
 i1media.no
 i1mt4e2gvhjh5pr8qbz.rest
+i1.services.social.microsoft.com
 i1.teaser-goods.ru
 i1.vaishnaviinterior.com
 i218435.net
@@ -321145,6 +321149,7 @@ prod-m-node-2111.ssp.advertising.com
 prod-m-node-3111.ssp.advertising.com
 prodmp.ru
 prod-ms.applovin.com
+prod.nexusrules.live.com.akadns.net
 prod.nitrosniffer.ottogroup.io
 prodocsexpress.com
 prodocslab.com
