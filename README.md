@@ -27,7 +27,7 @@ Why this list? Well, it is only one download and make it faster on the pi with l
 
 ## Are blocking enough? Protect your childern ❤️  and yourself
 
-This lists is not included in my combined file.
+This lists are not included in my combined file.
 
 <details><summary>Porn Block lists</summary><br>
 
