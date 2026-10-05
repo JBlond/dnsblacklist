@@ -73,3 +73,6 @@ update:
 	@rm -f domains.txt
 	@rm -f notserious
 	@rm -f small.txt
+
+make hosts
+	@sed 's/^/0.0.0.0 /' all_combined.txt > all_combined.hosts
